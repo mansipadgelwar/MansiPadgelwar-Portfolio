@@ -128,6 +128,7 @@ hr {
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
+    
 }
 
 .footer .link{
@@ -141,8 +142,10 @@ hr {
 
 .footer ul{
     padding-inline-start: 0px;
+   
 }
 
 .showcase-list{   
     padding: 2rem;
 }
+
