@@ -9,7 +9,7 @@
 body {
     font-family: 'Open Sans',
         sans-serif;
-        margin: 0px;
+    margin: 0px;
 }
 
 hr {
@@ -33,6 +33,7 @@ hr {
     padding: 0.5rem 1rem;
    
 }
+
 
 .primary-link {
     background-color:
