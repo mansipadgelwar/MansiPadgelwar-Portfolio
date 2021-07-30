@@ -132,18 +132,31 @@ hr {
     
 }
 
-.footer .link{
+
+
+.list-link{
+    text-decoration: none;
     color: white;
 }
 
 .footer .footer-header{
     font-weight: bold;
     font-size: large;
+    padding-bottom: 1rem;
+}
+
+.footer .list-item-inline{
+    margin: 0.5rem;
+    padding: 0 2rem;
 }
 
 .footer ul{
     padding-inline-start: 0px;
    
+}
+
+.fa{
+    font-size: 2.3rem;
 }
 
 .showcase-list{   
