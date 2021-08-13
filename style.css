@@ -1,14 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap');
 
 :root {
     --primary-color:#40916C;
     --dark-gray: #6B7280;
+    --light-gray: #8a919e; 
     --off-white: #F3F4F6;
 }
 
 body {
-    font-family: 'Noto Sans KR', sans-serif;
+    font-family:  'Atkinson Hyperlegible', sans-serif;
     margin: 0px;
+    font-size: 1.1rem;
 }
 
 hr {
@@ -119,6 +121,17 @@ hr {
 
 .section-off-white{
     background-color: var(--off-white);
+}
+
+.mark-number{
+    background-color:
+        var(--light-gray);
+    border-radius: 0.5rem;
+    color: white;
+    display: inline-block;
+    padding: 0 0.5rem;
+    /*margin: 1rem 1rem 1rem 0rem;*/
+
 }
 
 .footer{
