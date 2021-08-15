@@ -121,6 +121,12 @@ hr {
 
 .section-off-white{
     background-color: var(--off-white);
+
+}
+
+.showcase-list
+{
+    padding: 2rem;
 }
 
 .mark-number{
