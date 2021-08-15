@@ -142,7 +142,8 @@ hr {
     color: white;
     border-top-right-radius: 2rem;
     
-}
+    
+  }
 
 
 
@@ -155,23 +156,21 @@ hr {
     font-weight: bold;
     font-size: large;
     padding-bottom: 1rem;
-}
-
-.footer .list-item-inline{
+  }
+  
+  .footer .list-item-inline{
     margin: 0.5rem;
     padding: 0 2rem;
-}
-
-.footer ul{
+    display: inline-block;
+  }
+  
+  .footer ul{
     padding-inline-start: 0px;
    
-}
-
-.fa{
+  }
+  
+  .fa{
     font-size: 2.3rem;
-}
-
-.showcase-list{   
-    padding: 2rem;
-}
+  }
+  
 
