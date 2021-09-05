@@ -68,7 +68,7 @@ hr {
 .navigation {
     background-color: var(--primary-color);
     color: white;
-    padding: 1rem;
+    padding: 1rem 0;
     border-bottom-left-radius: 2rem;
 }
 
@@ -83,6 +83,7 @@ hr {
 .navigation .nav-brand {
     font-weight: bold;
     font-size: 1.1rem;
+    padding-left: 1rem;
 }
 
 .navigation .link-active {
@@ -143,7 +144,7 @@ hr {
 .footer{
     background-color: 
     var(--primary-color);
-    padding: 4rem 0.5rem;
+    padding: 4rem 0;
     text-align: center;
     color: white;
     border-top-right-radius: 2rem;
